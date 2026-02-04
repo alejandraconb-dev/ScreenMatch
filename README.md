@@ -1,8 +1,8 @@
 ## 🖥️ Tecnologías Utilizadas:
 
-- Java.
-- JSON/GSON.
-- Eclipse IDE.
+- Java
+- JSON/GSON
+- Eclipse IDE
 
 ## 🎯 Funcionalidades:
 
